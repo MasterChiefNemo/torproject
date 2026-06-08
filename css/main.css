@@ -25,6 +25,10 @@ a {
     color: black;
 }
 
+img {
+    box-shadow: 5px 5px 10px 0px;
+}
+
 .container {
     display: grid;
     grid-template-areas: 
