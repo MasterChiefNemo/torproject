@@ -35,7 +35,7 @@ img {
         "header header"
         "menu content"
         "footer footer";
-    grid-template-columns: 1.25fr 5.75fr;
+    grid-template-columns: 1.5fr 5.5fr;
     gap: 10px;
     background-color: gray;
     
